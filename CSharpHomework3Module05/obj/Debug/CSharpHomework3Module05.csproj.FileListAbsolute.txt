@@ -1,0 +1,7 @@
+C:\Users\r.tyo\source\repos\CSharpHomework3Module05\CSharpHomework3Module05\bin\Debug\CSharpHomework3Module05.exe.config
+C:\Users\r.tyo\source\repos\CSharpHomework3Module05\CSharpHomework3Module05\bin\Debug\CSharpHomework3Module05.exe
+C:\Users\r.tyo\source\repos\CSharpHomework3Module05\CSharpHomework3Module05\bin\Debug\CSharpHomework3Module05.pdb
+C:\Users\r.tyo\source\repos\CSharpHomework3Module05\CSharpHomework3Module05\obj\Debug\CSharpHomework3Module05.csprojAssemblyReference.cache
+C:\Users\r.tyo\source\repos\CSharpHomework3Module05\CSharpHomework3Module05\obj\Debug\CSharpHomework3Module05.csproj.CoreCompileInputs.cache
+C:\Users\r.tyo\source\repos\CSharpHomework3Module05\CSharpHomework3Module05\obj\Debug\CSharpHomework3Module05.exe
+C:\Users\r.tyo\source\repos\CSharpHomework3Module05\CSharpHomework3Module05\obj\Debug\CSharpHomework3Module05.pdb
