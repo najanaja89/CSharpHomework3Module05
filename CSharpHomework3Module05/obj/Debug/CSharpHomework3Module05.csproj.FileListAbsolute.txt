@@ -5,3 +5,10 @@ C:\Users\r.tyo\source\repos\CSharpHomework3Module05\CSharpHomework3Module05\obj\
 C:\Users\r.tyo\source\repos\CSharpHomework3Module05\CSharpHomework3Module05\obj\Debug\CSharpHomework3Module05.csproj.CoreCompileInputs.cache
 C:\Users\r.tyo\source\repos\CSharpHomework3Module05\CSharpHomework3Module05\obj\Debug\CSharpHomework3Module05.exe
 C:\Users\r.tyo\source\repos\CSharpHomework3Module05\CSharpHomework3Module05\obj\Debug\CSharpHomework3Module05.pdb
+D:\Source\CSharpHomework3Module05\CSharpHomework3Module05\bin\Debug\CSharpHomework3Module05.exe.config
+D:\Source\CSharpHomework3Module05\CSharpHomework3Module05\bin\Debug\CSharpHomework3Module05.exe
+D:\Source\CSharpHomework3Module05\CSharpHomework3Module05\bin\Debug\CSharpHomework3Module05.pdb
+D:\Source\CSharpHomework3Module05\CSharpHomework3Module05\obj\Debug\CSharpHomework3Module05.csprojAssemblyReference.cache
+D:\Source\CSharpHomework3Module05\CSharpHomework3Module05\obj\Debug\CSharpHomework3Module05.csproj.CoreCompileInputs.cache
+D:\Source\CSharpHomework3Module05\CSharpHomework3Module05\obj\Debug\CSharpHomework3Module05.exe
+D:\Source\CSharpHomework3Module05\CSharpHomework3Module05\obj\Debug\CSharpHomework3Module05.pdb
